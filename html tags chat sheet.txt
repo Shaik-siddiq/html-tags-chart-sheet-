@@ -14,6 +14,7 @@ horizantal					<hr>				- to view line in horizantal
 ordered list				<ol></ol>			- to show lines in ordered list
 unordered list 				<ul></ul>			- to show lines in unordered list
 table 						<table></table>		- to draw table in web page
+table header 					<thead></thead>		- to group header content 
 table head 					<th></th>     		- to write heading in table
 table row 					<tr></tr>			- to write the content in row
 table data 					<td></td>			- to write data in table
@@ -30,4 +31,6 @@ italic 						<i></i>				- to show line in italic
 bold & strong 				<b></b> <strong></strong> - to show line in bold
 strike or delete 			<strike></strike>		- to delete line in web page
 link 						<link></link>			- to link the css,js,bootstrap,jquery etc..
-							
+style 					<style></style>			- to style height,width,background,and many etc..
+image 					<img   />			- to show image in web
+textarea				<textarea>			- to write multi lines in web page
